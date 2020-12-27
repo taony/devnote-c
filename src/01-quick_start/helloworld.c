@@ -3,7 +3,7 @@
 
 void main(void){
     int i;
-    scanf("input c:%d",&i);
-    printf("%d",i+1);
+    scanf("input size %d",&i);
+    printf("%d",i);
     printf ("Hello World C lang \n ");
 }
