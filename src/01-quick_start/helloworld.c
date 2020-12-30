@@ -1,9 +1,10 @@
 /* helloworld.c */
 #include <stdio.h>
 
-void main(void){
-    int i;
-    scanf("input size %d",&i);
-    printf("%d",i);
-    printf ("Hello World C lang \n ");
+int main( ){
+    int a;
+    printf("Plase Input You Age: \n ");
+    scanf("%d",&a);
+    printf("Your input char is: %d \n ",a);
+    return a;
 }
