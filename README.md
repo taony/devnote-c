@@ -1,1 +1,1 @@
-# devnote-c
+# devnote for c lang
