@@ -1,7 +1,7 @@
 /* helloworld.c */
 #include <stdio.h>
 
-int main( ){
+void main( ){
     
     int a;
     
@@ -9,6 +9,5 @@ int main( ){
     scanf("%d",&a);
     
     printf("Your input char is: %d \n ",a);
-    return a;
 
 }
